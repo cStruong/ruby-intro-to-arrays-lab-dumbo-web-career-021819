@@ -28,3 +28,12 @@ def first_element_with_array_methods(array)
   return firstEle
 end
 
+def last_element_with_array_methods(array)
+  lastEle = array.last
+  return lastEle
+end
+
+def length_of_array(array)
+  length = array.length
+  return length
+end
